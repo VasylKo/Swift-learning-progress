@@ -1,7 +1,7 @@
 # Swift-learning-progress
 **My progress in learning iOS development and Swift programming language**
 
-**Books:**
+**Books:**  
 **1. “Swift by Tutorials (A Hands-on Approach - for iOS 8 and Swift 1.2.)”** - Ray Wenderlich
 Beginners level. Getting into is programming with Swift 1.2 for beginners.
 Tech stack: iOS 8, Swift 1.2, and Xcode 6
