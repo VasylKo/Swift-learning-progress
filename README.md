@@ -33,5 +33,5 @@ Tech stack: iOS 9, Swift 2.2, and Xcode 7.3
 Main Pods: Alamofire (3.4), SwiftyJSON (2.3), PINRemoteImage (2.1), Locksmith (2.0), Eureka(aka XLForm) (1.6)  
 More about: https://grokswift.com/book/   
 
-**6. Swift style guide (Swift 2.2):**
-The Official raywenderlich.com Swift Style Guide (Rev. April 2016)  
+**6. Swift style guide (Swift 2.2):**  
+[The Official raywenderlich.com Swift Style Guide (Rev. April 2016)](https://github.com/raywenderlich/swift-style-guide/blob/master/README.markdown)  
